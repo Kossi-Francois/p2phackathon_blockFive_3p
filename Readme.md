@@ -20,20 +20,20 @@ the frontend is a Flutter mobile app
 
 *
 Backend: The backend part is deployed on Aleph VM (as explained [here](https://github.com/aleph-im/aleph-vm))
-  1- clone the repository
-  2- add firebase credentials to store user data
-  3- add [Pinata ](https://app.pinata.cloud/) credentials to get access to IPFS
+  1. clone the repository
+  2. add firebase credentials to store user data
+  3. add [Pinata ](https://app.pinata.cloud/) credentials to get access to IPFS
   
   
 Mobile Frontend: The mobile app is a flutter app that can easily be installed on IOS and Android
-  1- clone the repository
-  2- retrieve the backend url(after deploying the backend) and put it in the file lib/help.dart (to ALEPH_URL_BACKEND var) ; 
-  3- then just run the app
+  1. clone the repository
+  2. retrieve the backend url(after deploying the backend) and put it in the file lib/help.dart (to ALEPH_URL_BACKEND var) ; 
+  3. then just run the app by using Android Studio
 *
 
 
 
-![alt text](https://github.com/Kossi-Francois/p2phackathon_blockFive_3p/blob/main/screen.png?raw=true)
+
 
 
 ## How to Use
@@ -50,3 +50,5 @@ Mobile Frontend: The mobile app is a flutter app that can easily be installed on
 - Side quest 1 - use of [IPFS](https://github.com/Kossi-Francois/alpheenProject/blob/main/ipfsmod/mainIPFS.py)  : Protocol Labs
 - Side quest 2 - hosting:  Aleph-1
 
+
+![alt text](https://github.com/Kossi-Francois/p2phackathon_blockFive_3p/blob/main/screen.png?raw=true)
