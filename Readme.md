@@ -27,3 +27,11 @@ To use the mobile application, simply retrieve the backend url and put it in the
 
 
 ![alt text](https://github.com/Kossi-Francois/p2phackathon_blockFive_3p/blob/main/screen.png?raw=true)
+
+
+## How to Use
+
+*The use is very simple*.
+1. Connect to the application by creating an account
+2: choose an image from the application, it is then added to IPFS
+
