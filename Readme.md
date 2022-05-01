@@ -40,6 +40,6 @@ To use the mobile application, simply retrieve the backend url and put it in the
 
 ## Side-Quests
 
-- Side quest 1 - use of IPFS: Protocol Labs
+- Side quest 1 - use of [IPFS](https://github.com/Kossi-Francois/alpheenProject/blob/main/ipfsmod/mainIPFS.py)  : Protocol Labs
 - Side quest 2 - hosting:  Aleph-1
 
