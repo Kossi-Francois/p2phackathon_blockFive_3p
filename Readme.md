@@ -9,7 +9,7 @@
 
 
 3P NFT (Persitent Peer to Peer NFT)
-is an application for creating and sending NFTs (persistent in IPFS through Pinata)
+is an application for creating and sending NFTs (persistent through IPFS)
 
 The backend is a FastApi python app [FastApi python app](https://github.com/Kossi-Francois/alpheenProject) to deploy on Aleph VM and
 the frontend is a Flutter mobile app
@@ -34,4 +34,12 @@ To use the mobile application, simply retrieve the backend url and put it in the
 *The use is very simple*.
 1. Connect to the application by creating an account
 2: choose an image from the application, it is then added to IPFS
+3. Choose or not to create my nft, if yes the NFT will contain the IPFS Hash of the file
+
+
+
+## Side-Quests
+
+- Side quest 1 - use of IPFS: Protocol Labs
+- Side quest 2 - hosting:  Aleph-1
 
