@@ -22,3 +22,8 @@ the frontend is a Flutter mobile app
 The backend part is deployed on Aleph VM (as explained [here](https://github.com/aleph-im/aleph-vm))
 
 To use the mobile application, simply retrieve the backend url and put it in the file lib/help.dart (to ALEPH_URL_BACKEND var) ; then just run the app
+
+
+
+
+![alt text](https://github.com/Kossi-Francois/p2phackathon_blockFive_3p/blob/main/screen.png?raw=true)
