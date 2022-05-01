@@ -2,6 +2,7 @@
 
 *How to make NFT assets persistent*
 NFTs have already shown their usefulness in several fields (like art). But the link that exists between the NFT and the asset it represents is only maintained by the platform that issued it.
+And so if we do for example from a platform (virtual world), we keep the NFT because it is on the blockchain, but we lose the asset, which in other words makes the value of the NFT zero
 
 
 ## Solution
