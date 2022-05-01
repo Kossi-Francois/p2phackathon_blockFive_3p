@@ -1,6 +1,7 @@
 ## Problem
 
 *How to make NFT assets persistent*
+NFTs have already shown their usefulness in several fields (like art). But the link that exists between the NFT and the asset it represents is only maintained by the platform that issued it.
 
 
 ## Solution
